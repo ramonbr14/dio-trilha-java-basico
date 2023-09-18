@@ -8,12 +8,12 @@ public class Operadores {
     int numero2 = 2;
 
     boolean simNao = numero1 == numero2;
-
+        
     if(numero1 < numero2){
         System.out.println("A nossa Condição é verdadeira");
     }
 
-     System.out.println("numeroum é igual a numerodois? " + simNao);
+    System.out.println("numeroum é igual a numerodois? " + simNao);
 
     simNao = numero1 != numero2;
 
@@ -38,7 +38,7 @@ public class Operadores {
     
         System.out.println("Isso é tudo pessoal");
     
-    /*
+    
     
     String nomeCompleto = "LINGUAGEM " + "JAVA 2023";
     String concatenacao = "?";
@@ -74,6 +74,6 @@ public class Operadores {
     else
         System.out.println("falso");
      // d      
-    */}
+    }
 
 }
